@@ -1,0 +1,6 @@
+2023-04-03 01:45:18.336009 - Initialized conversion of CBT658
+2023-04-03 01:45:18.363412 - Received CBT.V504.FILE658.PDS from FILE658.XMI 
+2023-04-03 01:45:18.365945 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE658.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:45:18.367191 - Found @FILE658.txt (text/plain) in CBT.V504.FILE658.PDS, moved to PDS/@FILE658
+2023-04-03 01:45:18.368214 - Found CRCCALC.rexx (text/plain) in CBT.V504.FILE658.PDS, moved to PDS/CRCCALC
+2023-04-03 01:45:18.369266 - Found CRCREXX.txt (text/plain) in CBT.V504.FILE658.PDS, moved to PDS/CRCREXX
